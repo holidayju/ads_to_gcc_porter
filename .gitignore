@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+server.config
+state/
+reports/
+backups/
+logs/
+working_project/
+git_operation_test_workspace/
+test_ai_server_report.json
+*.raw.txt
+*.extracted.txt
+*.error.txt
